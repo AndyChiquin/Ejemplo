@@ -1,0 +1,14 @@
+C:\Users\andy2\source\repos\CalculadoraEjemplo\CalculadoraEjemplo\bin\Debug\net8.0\CalculadoraEjemplo.exe
+C:\Users\andy2\source\repos\CalculadoraEjemplo\CalculadoraEjemplo\bin\Debug\net8.0\CalculadoraEjemplo.deps.json
+C:\Users\andy2\source\repos\CalculadoraEjemplo\CalculadoraEjemplo\bin\Debug\net8.0\CalculadoraEjemplo.runtimeconfig.json
+C:\Users\andy2\source\repos\CalculadoraEjemplo\CalculadoraEjemplo\bin\Debug\net8.0\CalculadoraEjemplo.dll
+C:\Users\andy2\source\repos\CalculadoraEjemplo\CalculadoraEjemplo\bin\Debug\net8.0\CalculadoraEjemplo.pdb
+C:\Users\andy2\source\repos\CalculadoraEjemplo\CalculadoraEjemplo\obj\Debug\net8.0\CalculadoraEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy2\source\repos\CalculadoraEjemplo\CalculadoraEjemplo\obj\Debug\net8.0\CalculadoraEjemplo.AssemblyInfoInputs.cache
+C:\Users\andy2\source\repos\CalculadoraEjemplo\CalculadoraEjemplo\obj\Debug\net8.0\CalculadoraEjemplo.AssemblyInfo.cs
+C:\Users\andy2\source\repos\CalculadoraEjemplo\CalculadoraEjemplo\obj\Debug\net8.0\CalculadoraEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\andy2\source\repos\CalculadoraEjemplo\CalculadoraEjemplo\obj\Debug\net8.0\CalculadoraEjemplo.dll
+C:\Users\andy2\source\repos\CalculadoraEjemplo\CalculadoraEjemplo\obj\Debug\net8.0\refint\CalculadoraEjemplo.dll
+C:\Users\andy2\source\repos\CalculadoraEjemplo\CalculadoraEjemplo\obj\Debug\net8.0\CalculadoraEjemplo.pdb
+C:\Users\andy2\source\repos\CalculadoraEjemplo\CalculadoraEjemplo\obj\Debug\net8.0\CalculadoraEjemplo.genruntimeconfig.cache
+C:\Users\andy2\source\repos\CalculadoraEjemplo\CalculadoraEjemplo\obj\Debug\net8.0\ref\CalculadoraEjemplo.dll
